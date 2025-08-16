@@ -1,13 +1,12 @@
-## Hi there 👋
-
-# Hi there, I'm **Johen Perera** 👋
+## Hi there, I'm **Johen Perera** 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Johen%20Perera\&fontSize=50\&fontAlignY=35\&desc=Data%20Science%20Undergraduate%20|%20Web%20Stack%20Developer\&descAlignY=55\&descAlign=50)
 
 ---
 
 ## 🔥 About Me
-
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
 I am an enthusiastic undergraduate in **Data Science** with a passion for building impactful projects and solving real-world problems.
 
 * 🎓 Pursuing **BSc (Hons) in Data Science** at **Sabaragamuwa University of Sri Lanka**
@@ -15,22 +14,21 @@ I am an enthusiastic undergraduate in **Data Science** with a passion for buildi
 * 🌱 Exploring **React**, **Advanced ML techniques**, and modern development practices
 * 📬 Reach me at: `pererajohen@gmail.com`
 
-  <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/USERNAME/REPO/main/4a361944-43c7-410e-b4cc-e8d8d14e63ce.png">
 
 
 ---
 
-## 📊 My GitHub Statistics
+## <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My GitHub Statistics </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohenPerera123&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohenPerera123&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohenPerera123&layout=compact&theme=radical" alt="langs"/>
+  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+  <img align="left" width="495" src="https://github-readme-stats.vercel.app/api?username=JohenPerera123&show_icons=true&theme=radical" alt="stats"/>
+  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=JohenPerera123&theme=radical" alt="streak"/>
+  <img width="495" height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohenPerera123&layout=compact&theme=radical" alt="langs"/>
 </p>
 
 ---
-
-
 
 ## 🛠️ Languages & Tools
 
