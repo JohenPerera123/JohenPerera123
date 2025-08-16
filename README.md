@@ -26,11 +26,11 @@ I am an enthusiastic undergraduate in **Data Science** with a passion for buildi
 <p>
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api?username=JohenPerera123&show_icons=true&theme=radical" alt="stats"/></td>
-    <td><img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" ></td>  
+    <td style="padding: 5px;"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=JohenPerera123&show_icons=true&theme=radical" alt="stats"/></td>
+    <td style="padding: 5px;"><img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" ></td>  
   <tr>
-    <td><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohenPerera123&theme=radical" alt="streak"/></td>
-    <td><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohenPerera123&layout=compact&theme=radical" alt="langs"/></td>
+    <td style="padding: 5px;"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohenPerera123&theme=radical" alt="streak"/></td>
+    <td style="padding: 5px;"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohenPerera123&layout=compact&theme=radical" alt="langs"/></td>
   </tr>
   </table>
   </p>
