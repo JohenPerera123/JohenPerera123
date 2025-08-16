@@ -28,8 +28,8 @@ I am an enthusiastic undergraduate in **Data Science** with a passion for buildi
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
   <img align="left" width="495" src="https://github-readme-stats.vercel.app/api?username=JohenPerera123&show_icons=true&theme=radical" alt="stats"/>
-  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=JohenPerera123&theme=radical" alt="streak"/>
-  <img width="495" height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohenPerera123&layout=compact&theme=radical" alt="langs"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JohenPerera123&theme=radical" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohenPerera123&layout=compact&theme=radical" alt="langs"/>
 </p>
 
 ---
