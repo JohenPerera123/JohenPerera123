@@ -15,6 +15,9 @@ I am an enthusiastic undergraduate in **Data Science** with a passion for buildi
 * 🌱 Exploring **React**, **Advanced ML techniques**, and modern development practices
 * 📬 Reach me at: `pererajohen@gmail.com`
 
+  <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/USERNAME/REPO/main/4a361944-43c7-410e-b4cc-e8d8d14e63ce.png">
+
+
 ---
 
 ## 📊 My GitHub Statistics
