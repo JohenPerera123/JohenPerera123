@@ -53,7 +53,7 @@ I am an enthusiastic undergraduate in **Data Science** with a passion for buildi
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/johenperera" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/johenperera/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   <a href="mailto:pererajohen@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
   <a href="https://github.com/JohenPerera123"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
 </p>
