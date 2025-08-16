@@ -1,11 +1,15 @@
 ## Hi there, I'm **Johen Perera** 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Johen%20Perera\&fontSize=50\&fontAlignY=35\&desc=Data%20Science%20Undergraduate%20|%20Web%20Stack%20Developer\&descAlignY=55\&descAlign=50)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Johen%20Perera&fontSize=50&fontAlignY=35&desc=Data%20Science%20Undergraduate%20|%20Web%20Stack%20Developer&descAlignY=55&descAlign=50" 
+       alt="Johen Perera" 
+       style="width: 100%; max-width: 1200px; height: auto; border-radius: 10px;" />
+</div>
 
 ---
 
 ## 🔥 About Me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 <br><br>
 I am an enthusiastic undergraduate in **Data Science** with a passion for building impactful projects and solving real-world problems.
 
