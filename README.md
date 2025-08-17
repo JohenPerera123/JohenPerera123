@@ -76,5 +76,5 @@ I am an enthusiastic undergraduate in **Data Science** with a passion for buildi
 
 ---
 
-✨
+✨Always open to opportunities in Data Science, Full‑Stack Development, and Open Source Collaboration.
 
