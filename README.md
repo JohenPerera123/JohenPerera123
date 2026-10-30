@@ -14,7 +14,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="230px" alt="Coding animation">
 </picture>
 
-<br><br>
+<br>
 
 I am an enthusiastic **Data Science undergraduate** at **Sabaragamuwa University of Sri Lanka**, passionate about exploring data, developing machine learning solutions, and building applications that solve real-world problems.
 
@@ -47,7 +47,7 @@ I am an enthusiastic **Data Science undergraduate** at **Sabaragamuwa University
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=JohenPerera123&show_icons=true&theme=radical" alt="GitHub stats"/>
     </td>
     <td style="padding: 5px;">
-      <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif>
+      <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>
     </td>
   </tr>
   <tr>
