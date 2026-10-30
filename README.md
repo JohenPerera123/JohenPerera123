@@ -1,7 +1,7 @@
 ## Hi there, I'm **Johen Perera** 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Johen%20Perera&fontSize=50&fontAlignY=35&desc=Data%20Science%20Undergraduate%20|%20Web%20Stack%20Developer&descAlignY=55&descAlign=50" 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Johen%20Perera&fontSize=50&fontAlignY=35&desc=Data%20Science%20Undergraduate%20|%20Data%20Analyst%20|%20Data%20Science%20&%20ML/AI%20Internship&descAlignY=55&descAlign=50" 
        alt="Johen Perera" 
        style="width: 100%; max-width: 1200px; height: auto; border-radius: 10px;" />
 </div>
